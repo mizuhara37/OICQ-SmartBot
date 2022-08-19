@@ -1,0 +1,14 @@
+{
+    "qq": 3562700686,
+    "platform": 1,
+    "password": "",
+    "use_guild": false,
+    "last": ["sign","fuc1","weather","admin","say","jrsc","update-info","music","stjdb","ai","translate"],
+    "code" : ["yiyan","qiandao","time","say","toolbox","admin","ai","stjdb","translate","music","coin","menu","bilibili"],
+    "admin": [],
+    "user": [],
+    "broadcast_group": [],
+    "five_mins_average_load_limit": 0.6,
+    "performance_work_group": 114514,
+    "debug_mode": false
+}
